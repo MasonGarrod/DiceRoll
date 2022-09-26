@@ -1,0 +1,8 @@
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.AssemblyReference.cache
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.SuggestedBindingRedirects.cache
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\44771\Desktop\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
